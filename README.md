@@ -65,7 +65,7 @@ enum4linux \
 crackmapexec \
 bloodhound
 ```
-## Wordlists Penting
+## Wordlists Pentesting
 ```
 sudo apt install -y \
 wordlists
